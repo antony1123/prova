@@ -1,0 +1,31 @@
+<!DOCTYPEhtml>
+<meta charset="UTF-8"/>
+<html lang="pt-BR">
+  <head>
+     <title>musica</title>
+
+  </head>
+  <body>
+       <h1>ESTILOS MUSICAIS PREFERIDOS</h1>
+       <p>nessa página irei mostrar meus estilos de musicas favoritos</p>
+<img id="npc" src="feel invencible.jpg">
+
+<img id="npc" src="escape-the-fate.jpg">
+
+<img id="npc" src="x gon give it to ya.jpg">
+
+<img id="npc" src="im dangerous.jpg">
+
+<img id="npc" src="Animals.jpg">
+
+
+<script>
+  
+
+
+
+  </body>
+</html>
+ A página deve conter uma breve descrição dos(do) estilos 
+ musicais que você mais gosta, uma seção com as bandas (ou cantores) 
+ de cada estilo e conter fotos dos mesmos. 
